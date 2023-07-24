@@ -1,2 +1,2 @@
 date
-echo Tarini
+echo "Hi Tarini, How are you"
